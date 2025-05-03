@@ -8,7 +8,7 @@ export function Localizacao() {
       <div className="container m-auto px-4" data-aos="zoom-out-up">
         <article className="flex flex-col  items-center justify-center gap-6">
           <div className="flex flex-col md:flex-row items-center md:items-center gap-4 mb-8">
-            <h2 className="font-bold text-4xl md:text-6xl text-center text-nowrap">
+            <h2 className="font-bold text-4xl md:text-6xl text-center">
               Onde Estamos Localizados{" "}
               
             </h2>
