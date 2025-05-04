@@ -9,7 +9,7 @@ export function Footer() {
             <h3 className="text-2xl font-semibold mb-2 ">
               Academia ExtremeFit-Praia
             </h3>
-            <p className="mb-4 font-bold">#VempraeXtreme</p>
+            <p className="mb-4 font-bold">#VempeXtreme</p>
             <a
               href={`https://wa.me/5579999428149?text=Olá vim pelo site e gostaria de mais informações.`}
               className="bg-green-500 text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
@@ -22,8 +22,8 @@ export function Footer() {
           <div>
             <h3 className="text-2xl font-semibold mb-2 ">Contatos</h3>
             <p>Email: extremefitbarra@gmail.com</p>
-            <p>Telefone pra contato: (79) 9 - 99428189</p>
-            <p>Rod. José de Campos, 358 - Barra dos Coqueiros - SE</p>
+            <p>Telefone pra contato: (79) 9-99428189</p>
+            <p>Rod. José de Campos, 545 - Barra dos Coqueiros - SE</p>
           </div>
 
           <div>

@@ -34,7 +34,7 @@ export function Hero() {
                 Disciplina hoje, resultado amanhã
               </h2>
               <a
-                href={`https://wa.me/5579999428149?text=Olá,tudobem? vim pelo site e gostaria de mais informações sobre a matrícula.`}
+                href={`https://wa.me/5579999428149?text=Olá,tudo bem? vim pelo site e gostaria de mais informações sobre a matrícula.`}
                 className="text-2xl md:text-3xl border-l border-r border-[#FFC300] p-2 rounded-md hover:text-[#FFC300] duration-300"
               >
                 Matricule-se

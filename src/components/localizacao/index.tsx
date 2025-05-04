@@ -30,7 +30,7 @@ export function Localizacao() {
                   <FaMapMarkerAlt className="mb-4 text-red-700" size={36} />
                   Endereço:
                 </span>{" "}
-                Rod. José de Campos, 358 - Moisés Gomes, Barra dos Coqueiros -
+                Rod. José de Campos, 545 - Barra dos Coqueiros -
                 SE, 49140-000{" "}
               </h3>
             </div>

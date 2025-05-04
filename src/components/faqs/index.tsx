@@ -19,7 +19,8 @@ export function Faqs() {
                 Quais dias que abre a academia?
               </AccordionTrigger>
               <AccordionContent className="text-gray-400 text-sm font-semibold pl-6">
-                Abrimos de segunda a sábado, segunda a sexta das 5:30 às 22 horas e sábado das 8 às 12 horas.
+                Abrimos de segunda a sábado, segunda a sexta das 5:30 às 22
+                horas e sábado das 8 às 12 horas.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
@@ -27,7 +28,8 @@ export function Faqs() {
                 Pra fechar o plano no cartão, o valor é recorrente?
               </AccordionTrigger>
               <AccordionContent className="text-gray-400 text-sm font-semibold pl-6">
-                Não, o valor é cheio, podendo parcelar até 12x dependo do plano fechado.
+                Não, o valor é integral, mas pode ser parcelado em até 12x,
+                conforme o plano escolhido.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-3">
@@ -35,7 +37,8 @@ export function Faqs() {
                 Como funciona para trancar a matrícula?
               </AccordionTrigger>
               <AccordionContent className="text-gray-400 text-sm font-semibold pl-6">
-                Nós podemos trancar a matrícula a partir do plano trimestral, podendo ficar com a matricula trancada por um período de até 30 dias.
+                É possível trancar a matrícula a partir do plano trimestral, por
+                um período máximo de 30 dias.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-4">
@@ -43,7 +46,8 @@ export function Faqs() {
                 O que é incluso na matrícula?
               </AccordionTrigger>
               <AccordionContent className="text-gray-400 text-sm font-semibold pl-6">
-                Na matrícula vem incluso a musculação, as aulas de dança e o funcional.
+                Na matrícula vem incluso a musculação, as aulas de dança e o
+                funcional.
               </AccordionContent>
             </AccordionItem>
           </Accordion>

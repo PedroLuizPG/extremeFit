@@ -7,6 +7,7 @@ import { EstruturaDaAcademia } from "./components/nossoEspaco";
 import { Localizacao } from "./components/localizacao";
 import { Faqs } from "./components/faqs";
 import { Footer } from "./components/footer";
+import { Assinatura } from "./components/assinatura";
 
 export function App(){
   return(
@@ -20,6 +21,7 @@ export function App(){
       <Localizacao/>
       <Faqs/>
       <Footer/>
+      <Assinatura/>
     </main>
   )
 }
