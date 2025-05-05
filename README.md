@@ -1,54 +1,32 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏋️ Academia Landing Page
 
-Currently, two official plugins are available:
+Landing page desenvolvida para uma academia, com foco em performance, responsividade e design moderno.  
+Este projeto foi construído com **React.js**, **Vite**, **Tailwind CSS**, **Shadcn/UI** e **Embla Carousel**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **[React.js](https://reactjs.org/)** — Biblioteca JavaScript para construção de interfaces
+- **[Vite](https://vitejs.dev/)** — Ferramenta de build rápida para projetos modernos
+- **[Tailwind CSS](https://tailwindcss.com/)** — Framework de utilitários para estilização
+- **[Shadcn/UI](https://ui.shadcn.com/)** — Componentes modernos, acessíveis e prontos para produção
+- **[Embla Carousel](https://www.embla-carousel.com/)** — Biblioteca leve e poderosa de carrossel
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 💡 Funcionalidades
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- ✅ Layout responsivo e moderno  
+- ✅ Carrossel de imagens com Embla  
+- ✅ Cards com ícones e descrição das atividades  
+- ✅ Seções animadas com transições suaves  
+- ✅ Design limpo com Tailwind + Shadcn
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## 📬 Contato
+
+Desenvolvido por **Pedro Luiz**  
+📧 Email: [peuluiz.13@gmail.com](peuluiz.13@gmail.com)  
+🔗 [LinkedIn]([https://linkedin.com/in/seulink](https://www.linkedin.com/in/pedro-gois-922071235/))
