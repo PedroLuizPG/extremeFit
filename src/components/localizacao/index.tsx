@@ -31,7 +31,7 @@ export function Localizacao() {
                   Endereço:
                 </span>{" "}
                 Rod. José de Campos, 545 - Barra dos Coqueiros -
-                SE, 49140-000{" "}
+                SE, 49142-230{" "}
               </h3>
             </div>
             <div className="mx-4 w-full max-w-[400px] h-[400px] lg:max-w-[500px] lg:h-[500px] flex items-center justify-center rounded-lg">
