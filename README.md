@@ -29,4 +29,4 @@ Este projeto foi construído com **React.js**, **Vite**, **Tailwind CSS**, **Sha
 
 Desenvolvido por **Pedro Luiz**  
 📧 Email: [peuluiz.13@gmail.com](peuluiz.13@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/pedro-gois-922071235/](https://www.linkedin.com/in/pedro-gois-922071235/))
+🔗 [LinkedIn] https://www.linkedin.com/in/pedro-gois-922071235/
